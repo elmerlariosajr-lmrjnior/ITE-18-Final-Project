@@ -1,0 +1,26 @@
+{
+  "name": "eco-rescue-ranger",
+  "version": "1.0.0",
+  "description": "Eco Rescue Ranger is a 3D environmental rescue game where players must clean trash, fix broken pipes, and rescue wildlife before time runs out.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "aframe",
+    "nodejs",
+    "express",
+    "3d",
+    "game",
+    "environment",
+    "recycling",
+    "wildlife",
+    "education"
+  ],
+  "author": "Elmer D. Lariosa Jr.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
